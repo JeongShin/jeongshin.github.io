@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreact_native_global_components_docs=self.webpackChunkreact_native_global_components_docs||[]).push([[1278],{6442:e=>{e.exports=JSON.parse('{"permalink":"/react-native-global-components/ko/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

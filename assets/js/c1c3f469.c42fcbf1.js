@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreact_native_global_components_docs=self.webpackChunkreact_native_global_components_docs||[]).push([[9313],{6595:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/react-native-global-components/blog/tags/facebook","allTagsPath":"/react-native-global-components/blog/tags","count":1}')}}]);

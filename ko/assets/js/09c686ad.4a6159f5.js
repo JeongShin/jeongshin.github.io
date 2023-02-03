@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreact_native_global_components_docs=self.webpackChunkreact_native_global_components_docs||[]).push([[4721],{5189:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/react-native-global-components/ko/blog/tags/docusaurus","allTagsPath":"/react-native-global-components/ko/blog/tags","count":4}')}}]);

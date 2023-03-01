@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_native_awesome_swiper_docs=self.webpackChunkreact_native_awesome_swiper_docs||[]).push([[282],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
